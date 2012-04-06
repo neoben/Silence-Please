@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Silence Please!</string>
+    <string name="aggiungi">Aggiungi Luogo</string>
+    <string name="lista">Lista Luoghi Salvati</string>
+    <string name="modifica">Modifica Preferenze</string>
+    <string name="istruzioni">Istruzioni</string>
+    <string name="credits">Credits</string>
+    <string name="testo_istruzioni">
+    Silence Please! è un\'applicazione che ti permette di associare un profilo audio ad un particolare luogo 
+    in modo tale da attivare automaticamente il profilo in funzione della tua posizione.\n
+    La mappa mostra la tua posizione.\n
+    Quando ti trovi in un luogo per cui vuoi settare un profilo, clicca su AGGIUNGI e setta le informazioni 
+    relative al luogo ed al profilo audio ad esso associato.\n
+    Tutte le informazioni verranno salvate in un database. Quando ti troverai entro un raggio di 10 metri 
+    da un luogo salvato, si attiverà il profilo associato.\n
+    Per modificare o cancellare le informazioni di una locazione memorizzata clicca su LISTA LUOGHI SALVATI 
+    e successivamente sul luogo interessato.\n
+    Silence Please! per poter funzionare ha bisogno che il GPS sia abilitato e per motivi di risparmio energetico 
+    non è ideata per funzionare in background. 
+    </string>
+    <string name="testo_credits">
+    Silence Please! è stata sviluppata da:\n
+    :: Carmine Benedetto\n
+    (carmine.benedetto\@gmail.com)\n
+    :: Luca Laudadio\n
+    (laudadio.luca@gmail.com)\n\n
+    Silence Please! nasce da un\'idea di Alessandro Pischedda (alessandro.pischedda@gmail.com) 
+    a cui vanno i nostri ringraziamenti :)\n\n\n
+    Applicazione ottimizzata per Android 2.3.4.
+    </string>
+</resources>
